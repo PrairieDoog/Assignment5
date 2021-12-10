@@ -1,9 +1,4 @@
 Continent,Code,Indicator Name,Indicator Code,LiteracyRate,Year,MortalityRate,MaleLifeExpectancy,FemaleLifeExpectancy,LifeExpectancy
-Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,18.23617,1980,121.3,46.475,51.18,48.21
-Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,33.62442,1990,116.9,46.6,50.99,49.104
-Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,50.645168,2000,111.2,42.66,45.14,44.19
-Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,36.752609,2010,101.4,46.2,49.02,47.312
-Central African Republic,CAF,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,36.752609,2019,81.00,51.49,53.21,52.805
 Middle East & North Africa,MEA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,51.34234,1980,49.9,56.184,60.549,58.332
 Middle East & North Africa,MEA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,58.496243,1990,49.9,62.233,66.982,64.572
 Middle East & North Africa,MEA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,70.403152,2000,34,66.241,71.053,68.602
